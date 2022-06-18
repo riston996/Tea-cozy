@@ -101,10 +101,7 @@ opacity: 0.9;
 
   .foot {
     height: 200px;
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    text-align: center;
     
   }
 
