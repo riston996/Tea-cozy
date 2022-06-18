@@ -99,14 +99,10 @@ opacity: 0.9;
         
   }
 
-  .foot {
-    height: 200px;
-    text-align: center;
-    
-  }
-
+ 
   .footer {
    height: 200px;
+   width: 300px;
    text-align: center;
     
   }
